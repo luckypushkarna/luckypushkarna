@@ -11,7 +11,7 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
         bg_element = '<rect width="100%" height="100%" fill="#2b26c3"/>'
 
     title_text = "Lucky Pushkarna"
-    subtitle_text = "Full-Stack Python Developer & AI-Assisted Engineer"
+    subtitle_text = "Full-Stack Python Developer &amp; AI-Assisted Engineer"
 
     # Typewriter timing
     title_chars = len(title_text)

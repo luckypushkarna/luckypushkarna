@@ -7,7 +7,7 @@
         </clipPath>
         <clipPath id="subtitle-clip">
             <rect x="150" y="130" width="0" height="50">
-                <animate attributeName="width" from="0" to="700" begin="1.5s" dur="1.5s" fill="freeze" calcMode="linear" />
+                <animate attributeName="width" from="0" to="700" begin="1.5s" dur="1.6199999999999999s" fill="freeze" calcMode="linear" />
             </rect>
         </clipPath>
     </defs>
@@ -65,6 +65,6 @@
 
     <!-- Subtitle with typewriter reveal -->
     <g clip-path="url(#subtitle-clip)">
-        <text x="500" y="152" dominant-baseline="middle" text-anchor="middle" class="subtitle">Full-Stack Python Developer & AI-Assisted Engineer</text>
+        <text x="500" y="152" dominant-baseline="middle" text-anchor="middle" class="subtitle">Full-Stack Python Developer &amp; AI-Assisted Engineer</text>
     </g>
 </svg>
