@@ -14,7 +14,7 @@
       <p>Based in Udaipur, Rajasthan.</p>
       <p>Passionate about building interactive web applications, scalable backend systems, and leveraging AI tools (Cursor, v0.dev, Claude) to accelerate development and deliver production-ready code.</p>
       <br>
-      <a href="https://www.linkedin.com/in/lucky-pushkarna-56a7b627b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:luckypushkarna22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/luckypushkarna"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+      <a href="https://www.linkedin.com/in/lucky-pushkarna-56a7b627b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:luckypushkarna22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/luckypushkarna"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="https://drive.google.com/file/d/1607tPbUpRgTQwOJ8QJ2b8hTlAN9j6SXw/view?usp=drive_link"><img src="https://img.shields.io/badge/RESUME%2FCV-4CAF50?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume/CV" /></a>
     </td>
   </tr>
 </table>
