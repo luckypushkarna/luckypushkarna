@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./banner.svg" alt="Banner" />
+  <img src="./header.svg" alt="Header" />
   <br><br>
   <img src="./portrait.svg" width="400" alt="ASCII Portrait" />
 </div>
