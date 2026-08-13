@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 636" width="580" height="636">
+    <style>
+        text {
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 12px;
+            font-weight: bold;
+            fill: #4dabf7;
+            white-space: pre;
+        }
+        @keyframes revealRow {
+            from { opacity: 0; transform: translateY(-2px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .row-0 {
+            animation: revealRow 0.1s ease-out 0.00s forwards;
+            opacity: 0;
+        }
+        .row-1 {
+            animation: revealRow 0.1s ease-out 0.04s forwards;
+            opacity: 0;
+        }
+        .row-2 {
+            animation: revealRow 0.1s ease-out 0.08s forwards;
+            opacity: 0;
+        }
+        .row-3 {
+            animation: revealRow 0.1s ease-out 0.12s forwards;
+            opacity: 0;
+        }
+        .row-4 {
+            animation: revealRow 0.1s ease-out 0.16s forwards;
+            opacity: 0;
+        }
+        .row-5 {
+            animation: revealRow 0.1s ease-out 0.20s forwards;
+            opacity: 0;
+        }
+        .row-6 {
+            animation: revealRow 0.1s ease-out 0.24s forwards;
+            opacity: 0;
+        }
+        .row-7 {
+            animation: revealRow 0.1s ease-out 0.28s forwards;
+            opacity: 0;
+        }
+        .row-8 {
+            animation: revealRow 0.1s ease-out 0.32s forwards;
+            opacity: 0;
+        }
+        .row-9 {
+            animation: revealRow 0.1s ease-out 0.36s forwards;
+            opacity: 0;
+        }
+        .row-10 {
+            animation: revealRow 0.1s ease-out 0.40s forwards;
+            opacity: 0;
+        }
+        .row-11 {
+            animation: revealRow 0.1s ease-out 0.44s forwards;
+            opacity: 0;
+        }
+        .row-12 {
+            animation: revealRow 0.1s ease-out 0.48s forwards;
+            opacity: 0;
+        }
+        .row-13 {
+            animation: revealRow 0.1s ease-out 0.52s forwards;
+            opacity: 0;
+        }
+        .row-14 {
+            animation: revealRow 0.1s ease-out 0.56s forwards;
+            opacity: 0;
+        }
+        .row-15 {
+            animation: revealRow 0.1s ease-out 0.60s forwards;
+            opacity: 0;
+        }
+        .row-16 {
+            animation: revealRow 0.1s ease-out 0.64s forwards;
+            opacity: 0;
+        }
+        .row-17 {
+            animation: revealRow 0.1s ease-out 0.68s forwards;
+            opacity: 0;
+        }
+        .row-18 {
+            animation: revealRow 0.1s ease-out 0.72s forwards;
+            opacity: 0;
+        }
+        .row-19 {
+            animation: revealRow 0.1s ease-out 0.76s forwards;
+            opacity: 0;
+        }
+        .row-20 {
+            animation: revealRow 0.1s ease-out 0.80s forwards;
+            opacity: 0;
+        }
+        .row-21 {
+            animation: revealRow 0.1s ease-out 0.84s forwards;
+            opacity: 0;
+        }
+        .row-22 {
+            animation: revealRow 0.1s ease-out 0.88s forwards;
+            opacity: 0;
+        }
+        .row-23 {
+            animation: revealRow 0.1s ease-out 0.92s forwards;
+            opacity: 0;
+        }
+        .row-24 {
+            animation: revealRow 0.1s ease-out 0.96s forwards;
+            opacity: 0;
+        }
+        .row-25 {
+            animation: revealRow 0.1s ease-out 1.00s forwards;
+            opacity: 0;
+        }
+        .row-26 {
+            animation: revealRow 0.1s ease-out 1.04s forwards;
+            opacity: 0;
+        }
+        .row-27 {
+            animation: revealRow 0.1s ease-out 1.08s forwards;
+            opacity: 0;
+        }
+        .row-28 {
+            animation: revealRow 0.1s ease-out 1.12s forwards;
+            opacity: 0;
+        }
+        .row-29 {
+            animation: revealRow 0.1s ease-out 1.16s forwards;
+            opacity: 0;
+        }
+        .row-30 {
+            animation: revealRow 0.1s ease-out 1.20s forwards;
+            opacity: 0;
+        }
+        .row-31 {
+            animation: revealRow 0.1s ease-out 1.24s forwards;
+            opacity: 0;
+        }
+        .row-32 {
+            animation: revealRow 0.1s ease-out 1.28s forwards;
+            opacity: 0;
+        }
+        .row-33 {
+            animation: revealRow 0.1s ease-out 1.32s forwards;
+            opacity: 0;
+        }
+        .row-34 {
+            animation: revealRow 0.1s ease-out 1.36s forwards;
+            opacity: 0;
+        }
+        .row-35 {
+            animation: revealRow 0.1s ease-out 1.40s forwards;
+            opacity: 0;
+        }
+        .row-36 {
+            animation: revealRow 0.1s ease-out 1.44s forwards;
+            opacity: 0;
+        }
+        .row-37 {
+            animation: revealRow 0.1s ease-out 1.48s forwards;
+            opacity: 0;
+        }
+        .row-38 {
+            animation: revealRow 0.1s ease-out 1.52s forwards;
+            opacity: 0;
+        }
+        .row-39 {
+            animation: revealRow 0.1s ease-out 1.56s forwards;
+            opacity: 0;
+        }
+        .row-40 {
+            animation: revealRow 0.1s ease-out 1.60s forwards;
+            opacity: 0;
+        }
+        .row-41 {
+            animation: revealRow 0.1s ease-out 1.64s forwards;
+            opacity: 0;
+        }
+        .row-42 {
+            animation: revealRow 0.1s ease-out 1.68s forwards;
+            opacity: 0;
+        }
+        .row-43 {
+            animation: revealRow 0.1s ease-out 1.72s forwards;
+            opacity: 0;
+        }
+    </style>
+    <rect width="100%" height="100%" fill="#0d1117" rx="6"/>
+    <text x="10" y="20" class="row-0">######################################################################</text><text x="10" y="34" class="row-1">######################################################################</text><text x="10" y="48" class="row-2">######################################################################</text><text x="10" y="62" class="row-3">######################################################################</text><text x="10" y="76" class="row-4">######################################################################</text><text x="10" y="90" class="row-5">######################################################################</text><text x="10" y="104" class="row-6">###############################OOOXxxxOO#O############################</text><text x="10" y="118" class="row-7">###########################O+;~~~~;::;;;;~*xX#########################</text><text x="10" y="132" class="row-8">##########################X.'..,;;::,,,,.::;;+O#######################</text><text x="10" y="146" class="row-9">##########################,'...,.'&#160;'.'&#160;'',..,:+#######################</text><text x="10" y="160" class="row-10">##########################:'.'.,,:,:,,,,,.'..,+#######################</text><text x="10" y="174" class="row-11">##########################x''',,:~*x*****+,.,;O#######################</text><text x="10" y="188" class="row-12">###########################,&#160;,~;:,.~X+,:~*+'.x########################</text><text x="10" y="202" class="row-13">##########################O~,;xXx~:*#X+~xOO:~O########################</text><text x="10" y="216" class="row-14">###########################;:;xOx~;+xXXX##X+*x########################</text><text x="10" y="230" class="row-15">###########################O*;+*;,:~~+*XXXXxx#########################</text><text x="10" y="244" class="row-16">#############################X~~~~++*XXxxxX###########################</text><text x="10" y="258" class="row-17">##############################x,,,:;;~~;~*############################</text><text x="10" y="272" class="row-18">##############################O;:,,::;~+xO############################</text><text x="10" y="286" class="row-19">##############################*;~::~*XOOXXO###########################</text><text x="10" y="300" class="row-20">############################X+':~;:;+xXxxX:x##########################</text><text x="10" y="314" class="row-21">######################OXXx+~~*'.:;::;+*+*~';xXXxXOO###################</text><text x="10" y="328" class="row-22">################Oxxxx**++;;::*+:;,;~~;:~:&#160;.~*XX*~~*+x**O##############</text><text x="10" y="342" class="row-23">##############*~+*xx***~;:++;,+X+:;**:,:',;~~*Xx*:++~;**xX############</text><text x="10" y="356" class="row-24">############O+++;~Xx*++;:::;;:.:+**+;,'.~+~*,;Xx*;;~,**~+xX###########</text><text x="10" y="370" class="row-25">############+;*x+.*X*~*+;***+~~,.,;~.&#160;.**~Xx;+xx*+~:;*;~x**X##########</text><text x="10" y="384" class="row-26">###########x;+++x::X*~;*;~xxxxxx*;::,,xX;*X+;**x**+,+;;**~*+O#########</text><text x="10" y="398" class="row-27">##########O~+~*++*.xX+;~:+x**xxxxx+;,*X*;X*~;x+xx*;,+:*+~**;*#########</text><text x="10" y="412" class="row-28">##########~:xx+***:~X*~:,**+*xxx++*+,+**~X*~~x*xx+.;;;;;xx++:O########</text><text x="10" y="426" class="row-29">#########X:;;XX***;:xx*,:*~;+***~+x~.~+*~X+;~X**x;.~::;xx+**,+########</text><text x="10" y="440" class="row-30">#########+:;;~xXxx~,*x*:~*::+***~~x+,::x~X+:~X***:,;.~xx*xXx;+########</text><text x="10" y="454" class="row-31">########O~~;*x+xXXX:~X*;+~,:+***++**+;:x*x*:+Xxx+,:,,;;~+**+;X########</text><text x="10" y="468" class="row-32">########x;~~+*xxXXO~,XX*+;,;+********~,*xx*:+Xxx~:;...,:;+*~:#########</text><text x="10" y="482" class="row-33">########x:,:;~+*xxX:&#160;xXx+;:;**+***xxx*:~Xxx;+Xx*;:;''..,;+*+:O########</text><text x="10" y="496" class="row-34">#########X.,:~+*XX*'&#160;;Ox~;:;**+****xxx~;Xxx~~Xx~:;,''..,;+**;X########</text><text x="10" y="510" class="row-35">#########X.:;+*XXO~';+x*;::+*x**xxxxxx*;*x**+X+:,,'&#160;''.,;+*x~x########</text><text x="10" y="524" class="row-36">#########x.:;+xXO~'+x***+:,,::;*xxx*xxx+~x~*~+,.,.'...,:;+*x~X########</text><text x="10" y="538" class="row-37">#########*.,:~*xX..++~++~,&#160;&#160;&#160;&#160;.;::::::,:,::;::::;~~+*x****xX+X########</text><text x="10" y="552" class="row-38">#########*.,:;~+**+~;;~+;.''':*++~;;:::,,;;;;~~+++**xxxXXXXX+O########</text><text x="10" y="566" class="row-39">#########*.:;;;~+*xxx+;~;;.&#160;&#160;.:,::::::::::;~~~~+++++++++xxx*x#########</text><text x="10" y="580" class="row-40">#########O.:~+*+++++***+~:...,:,..'''''..,,:;:;;~~~;;;:;~~+*##########</text><text x="10" y="594" class="row-41">##########+,:;**+*++++++~~~++++*+~~;:,:,,,,,:::;;:;;;:~OOOO###########</text><text x="10" y="608" class="row-42">###########Xx*xx*+~;;:;;;~~~~~~+++**+**+**+++*x*++++~;+###############</text><text x="10" y="622" class="row-43">##################*+~:;+*++++**xxxXXXXXXXXXXOXXxx**++;~###############</text>
+</svg>
