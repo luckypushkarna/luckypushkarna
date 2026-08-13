@@ -6,10 +6,7 @@
   <img src="./portrait.svg" width="400" alt="ASCII Portrait" />
 </div>
 
----
-
 <div align="center">
-  <h2>Hi, I'm Lucky Pushkarna 👋</h2>
   <p><b>Full-Stack Python Developer & AI-Assisted Engineer</b> based in Udaipur, Rajasthan.</p>
   <p>Passionate about building interactive web applications, scalable backend systems, and leveraging AI tools (Cursor, v0.dev, Claude) to accelerate development and deliver production-ready code.</p>
 

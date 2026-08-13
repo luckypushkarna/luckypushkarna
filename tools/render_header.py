@@ -13,17 +13,24 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
         bg_element = '<rect width="100%" height="100%" fill="#2b26c3"/>'
 
     svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
+    <defs>
+        <clipPath id="typing-clip">
+            <rect x="0" y="0" width="0" height="250">
+                <animate attributeName="width" from="0" to="1000" dur="1s" fill="freeze" />
+            </rect>
+        </clipPath>
+    </defs>
     <style>
         .title {{ 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             font-size: 32px; 
             font-weight: 700; 
             fill: #ffffff; 
-            letter-spacing: 3px;
+            letter-spacing: 2px;
             text-transform: uppercase;
         }}
         .subtitle {{ 
-            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
             font-size: 14px; 
             font-weight: 400; 
             fill: #d0d7ff; 
@@ -45,9 +52,9 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
     <rect x="150" y="70" width="700" height="110" class="glass-box" />
 
     <!-- Centered & Fitted Content -->
-    <g>
-        <text x="500" y="118" dominant-baseline="middle" text-anchor="middle" class="title">LUCKY PUSHKARNA</text>
-        <text x="500" y="150" dominant-baseline="middle" text-anchor="middle" class="subtitle">Full-Stack Python Developer &amp; AI-Assisted Engineer</text>
+    <g clip-path="url(#typing-clip)">
+        <text x="500" y="112" dominant-baseline="middle" text-anchor="middle" class="title">LUCKY PUSHKARNA</text>
+        <text x="500" y="145" dominant-baseline="middle" text-anchor="middle" class="subtitle">Full-Stack Python Developer &amp; AI-Assisted Engineer</text>
     </g>
 </svg>"""
 
