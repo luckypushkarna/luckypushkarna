@@ -4,7 +4,7 @@
             font-family: 'Courier New', Courier, monospace;
             font-size: 12px;
             font-weight: bold;
-            fill: #4dabf7;
+            fill: #ff5555;
             white-space: pre;
         }
         @keyframes revealRow {

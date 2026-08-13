@@ -44,7 +44,7 @@ def generate_ascii_svg(image_path="assets/photo-ready.png", output_svg="portrait
             font-family: 'Courier New', Courier, monospace;
             font-size: 12px;
             font-weight: bold;
-            fill: #4dabf7;
+            fill: #ff5555;
             white-space: pre;
         }}
         @keyframes revealRow {{
