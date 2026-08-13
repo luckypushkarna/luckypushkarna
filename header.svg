@@ -1,36 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 180" width="100%" height="180">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
     <style>
-        .bg { 
-            fill: #121010; 
-            rx: 10px; 
-            stroke: #2a221f; 
-            stroke-width: 1px; 
-        }
-        .name { 
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            font-size: 26px; 
-            font-weight: 400; 
-            fill: #e08b68; 
-            letter-spacing: 6px;
-        }
-        .sub { 
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-            font-size: 13px; 
-            font-weight: 300; 
-            fill: #a68c7c; 
+        .title { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            font-size: 32px; 
+            font-weight: 700; 
+            fill: #ffffff; 
             letter-spacing: 3px;
+            text-transform: uppercase;
         }
-        .dot {
-            fill: #d8a054;
+        .subtitle { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            font-size: 14px; 
+            font-weight: 400; 
+            fill: #d0d7ff; 
+            letter-spacing: 1px;
+            font-style: italic;
+        }
+        .glass-box {
+            fill: rgba(15, 15, 35, 0.45);
+            rx: 12px;
+            stroke: rgba(255, 255, 255, 0.15);
+            stroke-width: 1px;
         }
     </style>
-    
-    <rect width="100%" height="100%" class="bg"/>
-    
-    <!-- Minimal Peaceful Header Content -->
-    <g transform="translate(0, -2)">
-        <text x="50%" y="46%" dominant-baseline="middle" text-anchor="middle" class="name">LUCKY PUSHKARNA</text>
-        <circle cx="50%" cy="58%" r="2" class="dot" />
-        <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" class="sub">building stuff on the web</text>
+
+    <!-- Background -->
+    <rect width="100%" height="100%" fill="#2b26c3"/>
+
+    <!-- Properly proportioned Glass Container -->
+    <rect x="150" y="70" width="700" height="110" class="glass-box" />
+
+    <!-- Centered & Fitted Content -->
+    <g>
+        <text x="500" y="118" dominant-baseline="middle" text-anchor="middle" class="title">LUCKY PUSHKARNA</text>
+        <text x="500" y="150" dominant-baseline="middle" text-anchor="middle" class="subtitle">Full-Stack Python Developer &amp; AI-Assisted Engineer</text>
     </g>
 </svg>
