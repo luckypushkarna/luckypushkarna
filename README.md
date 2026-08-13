@@ -1,6 +1,8 @@
 <div align="center">
   <img src="./banner.svg" alt="Banner" />
-  <br><br>
+</div>
+<br>
+<div align="left">
   <img src="./portrait.svg" width="400" alt="ASCII Portrait" />
 </div>
 
