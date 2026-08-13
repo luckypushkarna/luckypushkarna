@@ -10,8 +10,8 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
     except:
         bg_element = '<rect width="100%" height="100%" fill="#2b26c3"/>'
 
-    title_text = "Lucky Pushkarna"
-    subtitle_text = "Full-Stack Python Developer &amp; AI-Assisted Engineer"
+    title_text = "I let AI handle the repetitive syntax—I build the logic."
+    subtitle_text = "doing my own thing fr"
 
     # Typewriter timing
     title_chars = len(title_text)
@@ -23,23 +23,23 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
     svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
     <defs>
         <clipPath id="title-clip">
-            <rect x="150" y="70" width="0" height="60">
-                <animate attributeName="width" from="0" to="700" begin="0.2s" dur="{title_duration}s" fill="freeze" calcMode="linear" />
+            <rect x="50" y="70" width="0" height="60">
+                <animate attributeName="width" from="0" to="900" begin="0.2s" dur="{title_duration}s" fill="freeze" calcMode="linear" />
             </rect>
         </clipPath>
         <clipPath id="subtitle-clip">
-            <rect x="150" y="130" width="0" height="50">
-                <animate attributeName="width" from="0" to="700" begin="{subtitle_delay}s" dur="{subtitle_duration}s" fill="freeze" calcMode="linear" />
+            <rect x="50" y="130" width="0" height="50">
+                <animate attributeName="width" from="0" to="900" begin="{subtitle_delay}s" dur="{subtitle_duration}s" fill="freeze" calcMode="linear" />
             </rect>
         </clipPath>
     </defs>
     <style>
         .title {{
             font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Roboto, Helvetica, Arial, sans-serif;
-            font-size: 38px;
+            font-size: 24px;
             font-weight: 600;
             fill: #ffffff;
-            letter-spacing: 1.5px;
+            letter-spacing: 1px;
         }}
         .subtitle {{
             font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Inter', Roboto, Helvetica, Arial, sans-serif;
@@ -78,7 +78,7 @@ def generate_fixed_header(image_path="44457912_9023633.jpg", output_svg="header.
     {bg_element}
 
     <!-- Glass Container -->
-    <rect x="150" y="70" width="700" height="110" rx="14" ry="14" class="glass-box" />
+    <rect x="50" y="70" width="900" height="110" rx="14" ry="14" class="glass-box" />
 
     <!-- Title with typewriter reveal -->
     <g clip-path="url(#title-clip)">
