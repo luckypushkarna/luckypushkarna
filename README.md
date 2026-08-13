@@ -34,6 +34,8 @@
 
 ## 🛠️ Skills & Expertise
 
+<img src="./car_rotated.gif" align="right" width="150" alt="Driving Car" />
+
 ### 🎯 AI & Agentic Workflows
 <p>
   <img src="https://img.shields.io/badge/Agentic_Workflows-8A2BE2?style=flat-square&logo=openai&logoColor=white" alt="Agentic Workflows" />
