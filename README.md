@@ -4,34 +4,17 @@
 <br>
 <div align="center">
 
-<table border="0">
+<table border="0" width="100%">
   <tr>
-    <!-- Left Column: ASCII Portrait -->
     <td valign="middle" align="center" width="40%">
       <img src="./portrait.svg" width="360" alt="ASCII Portrait" />
     </td>
-    
-    <!-- Right Column: Bio & Badges -->
-    <td valign="middle" align="left" width="60%" style="padding-left: 20px;">
+    <td valign="middle" align="left" width="60%">
       <h3>Full-Stack Python Developer &amp; AI-Assisted Engineer</h3>
       <p>Based in Udaipur, Rajasthan.</p>
-      <p>
-        Passionate about building interactive web applications, scalable backend systems, and leveraging AI tools (Cursor, v0.dev, Claude) to accelerate development and deliver production-ready code.
-      </p>
+      <p>Passionate about building interactive web applications, scalable backend systems, and leveraging AI tools (Cursor, v0.dev, Claude) to accelerate development and deliver production-ready code.</p>
       <br>
-      <div>
-        <a href="https://www.linkedin.com/in/lucky-pushkarna-56a7b627b/">
-          <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="mailto:luckypushkarna22@gmail.com">
-          <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        &nbsp;
-        <a href="https://github.com/luckypushkarna">
-          <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </div>
+      <a href="https://www.linkedin.com/in/lucky-pushkarna-56a7b627b/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="mailto:luckypushkarna22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://github.com/luckypushkarna"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     </td>
   </tr>
 </table>
