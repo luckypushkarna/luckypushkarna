@@ -94,7 +94,3 @@
 
 - **Bachelor of Computer Applications (BCA)**  
   *Pacific University, Udaipur (2024 – 2027)*
-- **Senior Secondary School (Class XII)**  
-  *NIOS*
-- **Secondary School (Class X)**  
-  *St. Anthony's Senior Secondary School, Udaipur*
