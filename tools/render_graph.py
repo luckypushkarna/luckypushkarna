@@ -50,7 +50,6 @@ def render_graph(json_path="assets/contributions.json", output_svg="graph.svg"):
         {''.join(css_rules)}
     </style>
     <rect width="100%" height="100%" class="bg"/>
-    <text x="{padding_x}" y="18" class="title">$ git log --contributions --year=latest</text>
     {''.join(rect_elements)}
 </svg>"""
 
