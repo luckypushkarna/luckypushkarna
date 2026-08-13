@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./animated_header.svg" alt="Animated Header" />
+  <img src="./header.svg" alt="Header" />
 </div>
 <br>
 <div align="left">
