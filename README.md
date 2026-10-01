@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="./animated_header.svg" alt="Animated Header" />
-</div>
-<br>
-<div align="center">
 
 <table border="0" width="100%">
   <tr>
