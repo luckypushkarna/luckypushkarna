@@ -19,15 +19,6 @@
 
 <br>
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luckypushkarna&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luckypushkarna&layout=compact&theme=tokyonight" alt="Top Languages" height="192px"/>
-</div>
-
-<br>
-
 ## 🛠️ Skills & Expertise
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
