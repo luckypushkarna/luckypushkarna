@@ -53,8 +53,3 @@
 - **Bachelor of Computer Applications (BCA)**  
   *Pacific University, Udaipur (2024 – 2027)*
 
-<br>
-
-<div align="center">
-  <img src="./car_rotated.gif" width="100%" alt="Driving Car" />
-</div>
