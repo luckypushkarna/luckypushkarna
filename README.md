@@ -42,7 +42,7 @@
 
 | Project | Description / Tech Stack | Link |
 |---------|--------------------------|------|
-| **SKT Global Mining & Services** | Interactive corporate platform built with **TypeScript, React.js, GSAP, ScrollTrigger, & Python**. | [Live Demo](https://sktglobalmining.vercel.app/) |
+| **SKT Global Mining & Services** | Interactive corporate platform built with **TypeScript, React.js, GSAP, ScrollTrigger, & Python**. | [Live Demo](https://sktglobalmining.com/) |
 | **Kanishka Buildcon** | Corporate real estate platform focusing on SEO. Built with **React.js, Bootstrap, JavaScript**. | [Live Demo](https://www.kanishkabuildconudaipur.com/) |
 | **Patel Tent House** | Event management platform featuring smooth scrolling and animations. Built with **Next.js, React.js, GSAP, Framer Motion, Tailwind CSS, Lenis, Cloudinary**. | [Live Demo](https://patel-tent-delta.vercel.app/) |
 
