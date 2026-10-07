@@ -6,7 +6,7 @@
       <img src="./portrait.svg" width="360" alt="ASCII Portrait" />
     </td>
     <td valign="middle" align="left" width="60%">
-      <h3>Full-Stack Python Developer & AI-Assisted Engineer</h3>
+      <h3>Full-Stack Python Developer &amp; AI-Assisted Engineer</h3>
       <p>Based in Udaipur, Rajasthan.</p>
       <p>Passionate about building interactive web applications, scalable backend systems, and leveraging AI tools (Cursor, v0.dev, Claude) to accelerate development and deliver production-ready code.</p>
       <br>
@@ -46,7 +46,7 @@
 | **SKT Global Mining & Services** | Interactive corporate platform built with **TypeScript, React.js, GSAP, ScrollTrigger, & Python**. | [Live Demo](https://www.sktglobalminings.com/) |
 | **Kanishka Buildcon** | Corporate real estate platform focusing on SEO. Built with **React.js, Bootstrap, JavaScript**. | [Live Demo](https://www.kanishkabuildconudaipur.com/) |
 | **Patel Tent House** | Event management platform featuring smooth scrolling and animations. Built with **Next.js, React.js, GSAP, Framer Motion, Tailwind CSS, Lenis, Cloudinary**. | [Live Demo](https://pateltent.vercel.app/) |
-| **e-commerce** | A premium e-commerce experience for organic dry fruits, nuts, and seeds. Built with a focus on mindful nourishment and sustainable sourcing. | [Live Demo](https://luckydemo-zeta.vercel.app/) |
+| **e-commerce** | A premium e-commerce experience for organic dry fruits, nuts, and seeds. Built with a focus on mindful nourishment and sustainable sourcing. | **demo** . |  [Live Demo](https://luckydemo-zeta.vercel.app/) |
 
 <br>
 
